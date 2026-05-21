@@ -7,7 +7,7 @@
 
 ---
 
-## 🏗️ 部署架構
+##  部署架構
 
 ```
 使用者瀏覽器
@@ -32,7 +32,7 @@ S3 Bucket (Static Website Hosting, ap-northeast-1)
 
 ---
 
-## 🔧 部署流程
+##  部署流程
 
 ### 1. S3 靜態網站托管
 - 建立 S3 Bucket(命名與網域一致)
@@ -77,7 +77,7 @@ S3 Bucket (Static Website Hosting, ap-northeast-1)
 
 ---
 
-## 🎨 技術特色
+##  技術特色
 
 - **零依賴單檔架構**:整個網站是一個 HTML 檔,CSS inline,無 build 流程、無 framework,cache 友善、載入快速
 - **響應式設計 (RWD)**:桌機與行動裝置皆適配
@@ -92,9 +92,9 @@ S3 Bucket (Static Website Hosting, ap-northeast-1)
 
 ---
 
-## 📝 開發者
+##  開發者
 
 **蘇品寧 Zoe Su** — 後端 / 全端 / 雲端工程師
-- 🌐 [www.zoesu.dev](https://www.zoesu.dev)
-- 💼 [LinkedIn](https://www.linkedin.com/in/%E5%93%81%E5%AF%A7-%E8%98%87-8326303b3/)
-- 🐙 [GitHub](https://github.com/zoesu4522)
+ 🌐 [www.zoesu.dev](https://www.zoesu.dev)
+ 💼 [LinkedIn](https://www.linkedin.com/in/%E5%93%81%E5%AF%A7-%E8%98%87-8326303b3/)
+ 🐙 [GitHub](https://github.com/zoesu4522)
